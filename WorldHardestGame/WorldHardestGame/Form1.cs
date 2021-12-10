@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using WorldHardestGame;
+using WorldsHardestGame;
 
 namespace WorldHardestGame
 {
@@ -87,15 +87,4 @@ namespace WorldHardestGame
         }
     }
 }
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
